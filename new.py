@@ -1,1 +1,1 @@
-print("Sri lanka is my mother land")
+print("Sri lanka is my motherland")
